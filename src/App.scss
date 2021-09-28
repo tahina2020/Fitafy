@@ -1,0 +1,10 @@
+@import 'tailwindcss/dist/base.css';
+@import 'tailwindcss/dist/components.css';
+@import 'tailwindcss/dist/utilities.css';
+
+body{
+    padding: 20px 60px;
+}
+*{
+    box-sizing: border-box;
+}
